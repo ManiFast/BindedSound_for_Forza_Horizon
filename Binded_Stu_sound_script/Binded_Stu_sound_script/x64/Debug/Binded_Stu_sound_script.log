@@ -1,0 +1,8 @@
+﻿  Binded_Stu_sound_script.cpp
+H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\Binded_Stu_sound_script\Binded_Stu_sound_script.cpp(70,11): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1251)
+H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\Binded_Stu_sound_script\Binded_Stu_sound_script.cpp(70,11): warning C4566: character represented by universal-character-name '\u0155' cannot be represented in the current code page (1251)
+H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\Binded_Stu_sound_script\Binded_Stu_sound_script.cpp(70,11): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1251)
+H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\Binded_Stu_sound_script\Binded_Stu_sound_script.cpp(70,11): warning C4566: character represented by universal-character-name '\u0171' cannot be represented in the current code page (1251)
+H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\Binded_Stu_sound_script\Binded_Stu_sound_script.cpp(70,11): warning C4566: character represented by universal-character-name '\u0161' cannot be represented in the current code page (1251)
+H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\Binded_Stu_sound_script\Binded_Stu_sound_script.cpp(586,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Binded_Stu_sound_script.vcxproj -> H:\Disk\qwerty\C++\My projects\Binded_Stu_sound_script\x64\Debug\Binded_Stu_sound_script.exe
